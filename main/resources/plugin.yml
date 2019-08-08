@@ -1,0 +1,10 @@
+name: Sumo
+version: ${project.version}
+main: me.flame.sumo.Core
+prefix: Sumo
+author: LetsFlame_
+description: Just a simple Sumo plugin
+
+commands:
+  sumo:
+    description: [Main Command]
